@@ -8,8 +8,10 @@
 * Execute "sh train-max-model.sh" to start your training
 * If everything is finished (or while training is in progress) you can take a look at the training results using tensorboard. Instructions below.
 
+`code(
 pip show tensorboard
 cd into directory/tensorboard
 python main.py --logdir=$RESULT_DIR/checkpoint
+)`
 
 ## Please add useful instructions that are currently missing
