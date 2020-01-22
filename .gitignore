@@ -3,6 +3,7 @@ training/training_output/
 .DS_store
 custom_assets/
 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -114,3 +115,5 @@ ENV/
 # local build files
 static/
 assets/data/
+training/output
+training/training_code/prepare_envs.sh
