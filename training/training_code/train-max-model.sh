@@ -27,7 +27,8 @@ echo "Training data is stored in $DATA_DIR"
 echo "Training work files and results will be stored in $RESULT_DIR"
 
 echo "Installing prerequisite packages ..."
-pip install --user --no-deps -r training_requirements.txt
+#Below line is only needed on initial environment dependency preparation
+#pip install --user --no-deps -r training_requirements.txt
 
 # ---------------------------------------------------------------
 # Perform training tasks

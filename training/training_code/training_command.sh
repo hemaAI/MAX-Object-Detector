@@ -3,7 +3,9 @@
 # ===============================================
 #   Setup any hyperparameters here
 # ===============================================
-NUM_TRAIN_STEPS=100
+#NUM_TRAIN_STEPS=100
+#Reduced steps for testing
+NUM_TRAIN_STEPS=2
 
 # ===============================================
 #   Exit codes
