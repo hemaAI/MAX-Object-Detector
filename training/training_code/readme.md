@@ -9,8 +9,8 @@
 * If everything is finished (or while training is in progress) you can take a look at the training results using tensorboard. Instructions below.
 
 `
-pip show tensorboard  
-cd into directory/tensorboard  
+pip show tensorboard<br/>  
+cd into directory/tensorboard<br/>  
 python main.py --logdir=$RESULT_DIR/checkpoint
 `
 
