@@ -16,6 +16,13 @@ POST_PROCESSING_FAILED=2
 PACKAGING_FAILED_RETURN_CODE=3
 
 # ===============================================
+#   Convert Annotations xml2json
+# ===============================================
+# the second argument is the name of the subfolder where the picutes are ( not xml)
+# under $DATA_DIR
+python xml2json.py $DATA_DIR "data"
+
+# ===============================================
 #   Model training
 # ===============================================
 model_download='Y'
@@ -86,3 +93,4 @@ if [ $RETURN_CODE -gt 0 ]; then
   echo "Error: Training run exited with status code $RETURN_CODE"
   exit $TRAINING_FAILED_RETURN_CODE
 fi
+
