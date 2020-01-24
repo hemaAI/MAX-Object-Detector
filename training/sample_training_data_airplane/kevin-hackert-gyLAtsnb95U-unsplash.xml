@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>kevin-hackert-gyLAtsnb95U-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/kevin-hackert-gyLAtsnb95U-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5729</width>
+		<height>3819</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>1026</ymin>
+			<xmax>5589</xmax>
+			<ymax>2967</ymax>
+		</bndbox>
+	</object>
+</annotation>

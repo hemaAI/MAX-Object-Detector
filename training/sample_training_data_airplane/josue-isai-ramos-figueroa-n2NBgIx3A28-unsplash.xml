@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>josue-isai-ramos-figueroa-n2NBgIx3A28-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/josue-isai-ramos-figueroa-n2NBgIx3A28-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3984</width>
+		<height>2656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>757</ymin>
+			<xmax>3927</xmax>
+			<ymax>2192</ymax>
+		</bndbox>
+	</object>
+</annotation>

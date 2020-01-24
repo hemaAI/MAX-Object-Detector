@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>mona-masoumi-JC2k5kIJNns-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/mona-masoumi-JC2k5kIJNns-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4100</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>350</ymin>
+			<xmax>3597</xmax>
+			<ymax>1832</ymax>
+		</bndbox>
+	</object>
+</annotation>

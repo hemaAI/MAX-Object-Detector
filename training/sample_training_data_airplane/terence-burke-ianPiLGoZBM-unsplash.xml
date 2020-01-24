@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>terence-burke-ianPiLGoZBM-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/terence-burke-ianPiLGoZBM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3538</width>
+		<height>3838</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>50</ymin>
+			<xmax>3538</xmax>
+			<ymax>3718</ymax>
+		</bndbox>
+	</object>
+</annotation>

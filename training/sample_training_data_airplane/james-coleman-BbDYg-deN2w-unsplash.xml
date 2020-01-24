@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>james-coleman-BbDYg-deN2w-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/james-coleman-BbDYg-deN2w-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6049</width>
+		<height>4033</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2606</xmin>
+			<ymin>670</ymin>
+			<xmax>5652</xmax>
+			<ymax>3225</ymax>
+		</bndbox>
+	</object>
+</annotation>

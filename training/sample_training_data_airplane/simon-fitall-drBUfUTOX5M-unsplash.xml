@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>simon-fitall-drBUfUTOX5M-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/simon-fitall-drBUfUTOX5M-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4288</width>
+		<height>2848</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>393</xmin>
+			<ymin>630</ymin>
+			<xmax>1950</xmax>
+			<ymax>1686</ymax>
+		</bndbox>
+	</object>
+</annotation>

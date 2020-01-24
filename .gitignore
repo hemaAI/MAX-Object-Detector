@@ -115,5 +115,5 @@ ENV/
 # local build files
 static/
 assets/data/
-training/output
+training/output/
 training/training_code/prepare_envs.sh

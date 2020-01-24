@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>vadim-sadovski-c1I66njV1-w-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/vadim-sadovski-c1I66njV1-w-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5730</width>
+		<height>3825</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>612</ymin>
+			<xmax>5730</xmax>
+			<ymax>3439</ymax>
+		</bndbox>
+	</object>
+</annotation>

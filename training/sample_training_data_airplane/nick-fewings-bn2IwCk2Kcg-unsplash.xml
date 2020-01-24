@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>nick-fewings-bn2IwCk2Kcg-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/nick-fewings-bn2IwCk2Kcg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4284</width>
+		<height>2856</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1491</xmin>
+			<ymin>152</ymin>
+			<xmax>4284</xmax>
+			<ymax>2508</ymax>
+		</bndbox>
+	</object>
+</annotation>

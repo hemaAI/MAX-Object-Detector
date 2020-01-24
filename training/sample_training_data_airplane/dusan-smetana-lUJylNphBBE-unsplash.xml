@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>dusan-smetana-lUJylNphBBE-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/dusan-smetana-lUJylNphBBE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5212</width>
+		<height>3475</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>451</xmin>
+			<ymin>429</ymin>
+			<xmax>4944</xmax>
+			<ymax>3014</ymax>
+		</bndbox>
+	</object>
+</annotation>

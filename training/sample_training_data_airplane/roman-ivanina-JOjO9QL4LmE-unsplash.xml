@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>roman-ivanina-JOjO9QL4LmE-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/roman-ivanina-JOjO9QL4LmE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>1128</ymin>
+			<xmax>5184</xmax>
+			<ymax>3110</ymax>
+		</bndbox>
+	</object>
+</annotation>

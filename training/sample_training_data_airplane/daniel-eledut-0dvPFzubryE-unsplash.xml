@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>daniel-eledut-0dvPFzubryE-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/daniel-eledut-0dvPFzubryE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4676</width>
+		<height>3114</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>149</ymin>
+			<xmax>4665</xmax>
+			<ymax>2537</ymax>
+		</bndbox>
+	</object>
+</annotation>

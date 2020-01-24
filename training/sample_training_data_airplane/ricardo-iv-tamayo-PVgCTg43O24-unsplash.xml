@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>ricardo-iv-tamayo-PVgCTg43O24-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/ricardo-iv-tamayo-PVgCTg43O24-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3888</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>671</xmin>
+			<ymin>590</ymin>
+			<xmax>3232</xmax>
+			<ymax>1496</ymax>
+		</bndbox>
+	</object>
+</annotation>

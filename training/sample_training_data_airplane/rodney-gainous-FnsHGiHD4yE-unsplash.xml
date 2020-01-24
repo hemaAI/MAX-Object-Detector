@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>rodney-gainous-FnsHGiHD4yE-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/rodney-gainous-FnsHGiHD4yE-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1482</xmin>
+			<ymin>917</ymin>
+			<xmax>3118</xmax>
+			<ymax>1758</ymax>
+		</bndbox>
+	</object>
+</annotation>

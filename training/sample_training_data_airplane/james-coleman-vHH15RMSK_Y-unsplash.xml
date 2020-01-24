@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>james-coleman-vHH15RMSK_Y-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/james-coleman-vHH15RMSK_Y-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6240</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2047</xmin>
+			<ymin>1198</ymin>
+			<xmax>6065</xmax>
+			<ymax>3080</ymax>
+		</bndbox>
+	</object>
+</annotation>

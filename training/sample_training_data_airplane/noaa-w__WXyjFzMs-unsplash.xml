@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>noaa-w__WXyjFzMs-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/noaa-w__WXyjFzMs-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4919</width>
+		<height>3251</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>209</xmin>
+			<ymin>1233</ymin>
+			<xmax>3509</xmax>
+			<ymax>2325</ymax>
+		</bndbox>
+	</object>
+</annotation>

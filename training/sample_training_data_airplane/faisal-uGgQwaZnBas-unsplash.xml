@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>faisal-uGgQwaZnBas-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/faisal-uGgQwaZnBas-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4496</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>40</ymin>
+			<xmax>2928</xmax>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+</annotation>

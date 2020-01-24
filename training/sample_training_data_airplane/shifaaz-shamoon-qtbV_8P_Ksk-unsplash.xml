@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>shifaaz-shamoon-qtbV_8P_Ksk-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/shifaaz-shamoon-qtbV_8P_Ksk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2507</width>
+		<height>3066</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1474</xmin>
+			<ymin>1533</ymin>
+			<xmax>2507</xmax>
+			<ymax>2452</ymax>
+		</bndbox>
+	</object>
+</annotation>

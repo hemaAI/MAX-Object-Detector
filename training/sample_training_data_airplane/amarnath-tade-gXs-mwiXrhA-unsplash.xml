@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>amarnath-tade-gXs-mwiXrhA-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/amarnath-tade-gXs-mwiXrhA-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2588</width>
+		<height>4191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>1206</ymin>
+			<xmax>2377</xmax>
+			<ymax>3817</ymax>
+		</bndbox>
+	</object>
+</annotation>

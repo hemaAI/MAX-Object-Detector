@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>daniel-eledut-Ypg01IW0TRg-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/daniel-eledut-Ypg01IW0TRg-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4456</width>
+		<height>2967</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>183</ymin>
+			<xmax>4456</xmax>
+			<ymax>2485</ymax>
+		</bndbox>
+	</object>
+</annotation>

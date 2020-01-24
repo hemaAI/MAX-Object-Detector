@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>robert-bye-3wBOWaFMyBQ-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/robert-bye-3wBOWaFMyBQ-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>771</ymin>
+			<xmax>3264</xmax>
+			<ymax>2121</ymax>
+		</bndbox>
+	</object>
+</annotation>

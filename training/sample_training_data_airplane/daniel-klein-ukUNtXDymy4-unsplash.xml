@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>daniel-klein-ukUNtXDymy4-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/daniel-klein-ukUNtXDymy4-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>7360</width>
+		<height>4912</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>100</ymin>
+			<xmax>7360</xmax>
+			<ymax>4081</ymax>
+		</bndbox>
+	</object>
+</annotation>

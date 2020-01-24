@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>c-drying-FYk57SG-KSA-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/c-drying-FYk57SG-KSA-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>3376</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>506</ymin>
+			<xmax>5818</xmax>
+			<ymax>3169</ymax>
+		</bndbox>
+	</object>
+</annotation>

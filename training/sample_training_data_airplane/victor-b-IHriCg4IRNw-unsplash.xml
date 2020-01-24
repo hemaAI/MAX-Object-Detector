@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>victor-b-IHriCg4IRNw-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/victor-b-IHriCg4IRNw-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4607</width>
+		<height>3455</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>707</ymin>
+			<xmax>3090</xmax>
+			<ymax>2640</ymax>
+		</bndbox>
+	</object>
+</annotation>

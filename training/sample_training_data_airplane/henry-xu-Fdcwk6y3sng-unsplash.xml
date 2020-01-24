@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>henry-xu-Fdcwk6y3sng-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/henry-xu-Fdcwk6y3sng-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1377</xmin>
+			<ymin>1062</ymin>
+			<xmax>3648</xmax>
+			<ymax>2404</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>kevin-hackert-jO42qNF3DIQ-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/kevin-hackert-jO42qNF3DIQ-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5896</width>
+		<height>3931</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>1282</ymin>
+			<xmax>5823</xmax>
+			<ymax>3265</ymax>
+		</bndbox>
+	</object>
+</annotation>

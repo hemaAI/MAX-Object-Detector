@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>andrey-kremkov-wGm-tZIgeko-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/andrey-kremkov-wGm-tZIgeko-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4752</width>
+		<height>3168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>962</xmin>
+			<ymin>641</ymin>
+			<xmax>4069</xmax>
+			<ymax>2148</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>hans-dorries-fsEgvr_Pm-Y-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/hans-dorries-fsEgvr_Pm-Y-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3872</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1169</xmin>
+			<ymin>273</ymin>
+			<xmax>2719</xmax>
+			<ymax>1051</ymax>
+		</bndbox>
+	</object>
+</annotation>

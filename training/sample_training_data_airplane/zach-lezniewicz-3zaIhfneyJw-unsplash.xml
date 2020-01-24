@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>zach-lezniewicz-3zaIhfneyJw-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/zach-lezniewicz-3zaIhfneyJw-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2912</width>
+		<height>4368</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>938</xmin>
+			<ymin>613</ymin>
+			<xmax>1962</xmax>
+			<ymax>1348</ymax>
+		</bndbox>
+	</object>
+</annotation>

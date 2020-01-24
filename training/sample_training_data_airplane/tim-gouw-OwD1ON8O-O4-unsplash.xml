@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>tim-gouw-OwD1ON8O-O4-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/tim-gouw-OwD1ON8O-O4-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4496</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1019</ymin>
+			<xmax>2821</xmax>
+			<ymax>2473</ymax>
+		</bndbox>
+	</object>
+</annotation>

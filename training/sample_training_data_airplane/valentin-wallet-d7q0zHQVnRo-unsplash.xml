@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>valentin-wallet-d7q0zHQVnRo-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/valentin-wallet-d7q0zHQVnRo-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helicopter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>454</ymin>
+			<xmax>5009</xmax>
+			<ymax>3245</ymax>
+		</bndbox>
+	</object>
+</annotation>

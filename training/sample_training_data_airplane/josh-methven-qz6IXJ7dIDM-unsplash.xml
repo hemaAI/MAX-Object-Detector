@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test_pictures</folder>
+	<filename>josh-methven-qz6IXJ7dIDM-unsplash.jpg</filename>
+	<path>/Users/de165793/Downloads/test_pictures/josh-methven-qz6IXJ7dIDM-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5043</width>
+		<height>2837</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>airplane</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>104</ymin>
+			<xmax>4942</xmax>
+			<ymax>2118</ymax>
+		</bndbox>
+	</object>
+</annotation>
