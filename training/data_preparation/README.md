@@ -2,9 +2,15 @@
 
 Training the Object Detector requires a dataset of images, annotated with the bounding boxes of each object identified in each image.
 
-To easily create annotated image datasets, we can use [the Cloud Annotations Tool](https://cloud.annotations.ai/login), 
-a fast, easy and collaborative open source image annotation tool that makes it easy to interactively draw bounding boxes around objects in images residing on [IBM Cloud Object Storage](https://www.ibm.com/cloud/object-storage). 
+There are two possible ways to create traiing data:
 
+1.  CloudAnnotation
+    To easily create annotated image datasets, we can use [the Cloud Annotation Tool](https://cloud.annotations.ai/login), 
+    a fast, easy and collaborative open source image annotation tool that makes it easy interactively draw bounding boxes around objects in images residing on [IBM Cloud Object Storage](https://www.ibm.com/cloud/object-storage). 
+
+2. LabelImg + conversion in Python
+
+# 1. Cloud Annotation
 Follow the instructions in this document to prepare your data for training the object detector model.
 - [Prerequisites](#prerequisites)
 - [Preparing Your Data](#preparing-your-data)
@@ -65,5 +71,23 @@ Login into [Cloud Annotation Tool](https://cloud.annotations.ai/login) using you
 
 Once you have completed annotating all your images, proceed to training parameter customization and initiate training.
 
+# 2. labelImg + python
 
+<Clone labelImg from: [Github labelImg](https://github.com/tzutalin/labelImg)
+<Follow instructions in the README.md to get it running.
+<Create a new folder under /training, for example: 'sample_pictures' (this is your $DATA_DIR int he training project)
+<Create a subfolder called 'data' in /training/sample_pictures
+<Copy all the your images 
+
+    How to use the tool:
+    << Click 'Open Dir' and navigate to the folder where all the picture are stored you want to annotate. All will be loaded to the tool.
+    << Click 'Create RectBox' on the left side and draw a rectangle over the part of the picture you want to annotate
+    <<From the pop-up window either select an existing label or add a new one.
+    <<Currently you can only add one annotation per picture. (should/would be extended in the future)
+    <<< Click save
+
+<The xml files will be saved in the same folder where you had the pictures.
+<Move the xml-s one folder-level higher: in /training/sample_pictures ($DATA_DIR)
+
+The train-command.sh contains a new step to call xml2json for the $DATA_DIR that was defined in prepare_envs.sh. The output will be _annotations.json in the $DATA_DIR
 
