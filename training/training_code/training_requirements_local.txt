@@ -1,0 +1,16 @@
+Cython
+contextlib2
+image==1.5.27
+matplotlib==3.1.2
+python-dateutil==2.1
+keras-applications==1.0.4
+keras-preprocessing==1.0.2
+numpy==1.16.0
+six==1.11.0
+tensorflow==1.13.1
+pycocotools==2.0.0
+coremltools==3.0b1
+tfcoreml==0.3.0
+tensorflowjs==0.8.0
+tensorflow-hub==0.1.1
+h5py==2.8.0
